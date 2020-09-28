@@ -3,4 +3,4 @@
 Here is a variety of online certifications that I have taken to further my skillset. These are educational certifications only, however, some of these trainings have led to
 professional certifications (Comptia Security+ and Comptia Network+).
 
-**Current Hour Total:** 52.6 (Sept 27, 2020)
+**Current Hour Total:** 53.35 (Sept 27, 2020)
