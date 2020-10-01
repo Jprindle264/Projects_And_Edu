@@ -3,4 +3,4 @@
 Here is a variety of online certifications that I have taken to further my skillset. These are educational completion certifications only, however, some of these trainings have led to
 professional certifications (Comptia Net+, Sec+, and CySA+).
 
-**Current Hour Total:** 57.6 (Sept 30, 2020)
+**Current Hour Total:** 58.8 (Oct 1, 2020)
